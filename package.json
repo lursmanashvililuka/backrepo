@@ -3,8 +3,12 @@
   "version": "1.0.0",
   "description": "",
   "main": "script.js",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && live-server"
   },
   "repository": {
     "type": "git",
