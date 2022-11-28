@@ -1,2 +1,3 @@
 # backrepo
-background color generator
+background color generator⚙️🎨
+prints out rgb📄
